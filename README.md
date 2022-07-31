@@ -1,14 +1,14 @@
 # <p align='center'><b>What you should read :</b></p>
 
-**1. [Terms of Service ](https://github.com/1l2er/MEADME.md/blob/main/README.md#terms-of-service)to learn the correct way to use the bot**
+**1. [Terms of Service ](https://github.com/1l2er/MEADME.md#terms-of-service)to learn the correct way to use the bot**
 
-**2. [Privacy Policy ](https://github.com/1l2er/MEADME.md/blob/main/README.md#privacy-policy)to see what information is stored**
+**2. [Privacy Policy ](https://github.com/1l2er/MEADME.md#privacy-policy)to see what information is stored**
 
-**3. [Get Started ](https://github.com/1l2er/MEADME.md/blob/main/README.md#get-started)to read a simple bot definition**
+**3. [Get Started ](https://github.com/1l2er/MEADME.md#get-started)to read a simple bot definition**
 
-**4. The [Commands ](https://github.com/1l2er/MEADME.md/blob/main/README.md#commands-)in the robot**
+**4. The [Commands ](https://github.com/1l2er/MEADME.md#commands-)in the robot**
 
-**5. [Information ](https://github.com/1l2er/MEADME.md/blob/main/README.md#information-)about the bot**
+**5. [Information ](https://github.com/1l2er/MEADME.md#information-)about the bot**
 
 <br/>
 
