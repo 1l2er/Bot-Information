@@ -1,8 +1,12 @@
 # <p align='center'><b>Get Started</b></p>
+<p align='center'>
 
-- **Our bot provides protection for the servers where the bot is located, the protection is developed with new and advanced ideas.**
-****
-## Command's :
+**Our bot provides protection for the servers where the bot is located, the protection is developed with new and advanced ideas.**
+
+</p>
+
+## **Command's** :
+
 - **AntiBots On/OFF - Protect the server from entering bots "Recommended"**
 
 - **AntiVanity On/OFF - Server Shortcut URL Protection "Recommended"**
