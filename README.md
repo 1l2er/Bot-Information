@@ -17,5 +17,5 @@
 ****
 ## **Information :**
 
-### **Default Prefix : `?`**
-### **When inserting the bot into the server, activate the protection with [Here](https://github.com/1l2er/MEADME.md/blob/main/README.md#commands-)**
+**Default Prefix : `?`**
+**When inserting the bot into the server, activate the protection with [Here](https://github.com/1l2er/MEADME.md/blob/main/README.md#commands-)**
