@@ -1,3 +1,15 @@
+# <p align='center'><b>What you should read :</b></p>
+
+**1. [Terms of Service ](https://github.com/1l2er/MEADME.md/blob/main/README.md#terms-of-service)to learn the correct way to use the bot**
+
+**2. [Privacy Policy ](https://github.com/1l2er/MEADME.md/blob/main/README.md#privacy-policy)to see what information is stored**
+
+**3. [Get Started ](https://github.com/1l2er/MEADME.md/blob/main/README.md#get-started)to read a simple bot definition**
+
+**4. The [Commands ](https://github.com/1l2er/MEADME.md/blob/main/README.md#commands-)in the robot**
+
+**5. [Information ](https://github.com/1l2er/MEADME.md/blob/main/README.md#information-)about the bot**
+
 <br/>
 
 # <p align='center'><b>Get Started</b></p>
@@ -26,16 +38,6 @@
 #### **Default Prefix : `?`**
 
 #### **When inserting the bot into the server, activate the protection with [Here](https://github.com/1l2er/MEADME.md/blob/main/README.md#commands-).**
-<h1 align='center'>
-<br/>
-
-## **Notes :**
-
-**When using a protection command, some information about the server is stored such as:**
-
-**Server ID, Vanity URL...**
-
-</h1> 
 
 <br/>
 
