@@ -1,4 +1,4 @@
-<h1 style='font-size: 55px' align='center'><b>Get Started</b></h1>
+# <p align='center'><b>Get Started</b></p>
 
 - **Our bot provides protection for the servers where the bot is located, the protection is developed with new and advanced ideas.**
 ****
