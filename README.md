@@ -1,4 +1,4 @@
-<a href="https://top.gg/bot/998581052320780369">
+<a align='center' href="https://top.gg/bot/998581052320780369">
   <img src="https://top.gg/api/widget/998581052320780369.svg">
 </a>
 
