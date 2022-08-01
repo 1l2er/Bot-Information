@@ -76,4 +76,4 @@
 <br/>
 <br/>
 
-<p align='center'>© 2022 All rights reserved.</p>
+<p align='center'>© 2022 All rights reserved. | Security +</p>
