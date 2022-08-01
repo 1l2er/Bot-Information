@@ -19,9 +19,9 @@
 
 ## **Command's** :
 
-- **AntiBots On/OFF - Protect the server from entering bots. "Recommended"**
+- **AntiBots On/OFF - Protect the server from entering bots.**
 
-- **AntiVanity On/OFF - Server Shortcut URL Protection. "Recommended"**
+- **AntiVanity On/OFF - Server Shortcut URL Protection.**
 
 - **AntiRoles On/OFF - Protection from creating, deleting or modifying many roles in a short time.**
 
