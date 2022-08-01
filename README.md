@@ -72,3 +72,5 @@
 - **Rights of the bot and developers:**
 
 **The bot has the right to store information about the server in which it is located. The developers have the right to change the privacy policy of the bot at any time.**
+
+<p align='center'>© 2022 All rights reserved.</p>
