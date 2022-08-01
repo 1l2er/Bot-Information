@@ -1,7 +1,3 @@
-<a align='center' href="https://top.gg/bot/998581052320780369">
-  <img align='center' src="https://top.gg/api/widget/998581052320780369.svg">
-</a>
-
 # <p align='center'><b>What you should read :</b></p>
 
 **1. [Terms of Service ](https://github.com/1l2er/Bot-Information#terms-of-service)to learn the correct way to use the bot**
