@@ -29,8 +29,6 @@
 
 - **AntiLinks On/OFF - Protection from sending links.**
 
-- **AntiUpdate On/OFF - Protection from modifying the server name and icon.**
-
 <br/>
 
 ## **Information :**
