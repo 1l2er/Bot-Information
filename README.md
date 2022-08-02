@@ -12,7 +12,7 @@
 
 <br/>
 
-# <p align='center'><b>Get Started</b></p>
+<img align='center' src='https://cdn.discordapp.com/attachments/1000836914192072775/1004118232174694400/88c27ff6ed9b2715.png'/>
 **Our bot provides protection for the servers where the bot is located, the protection is developed with new and advanced ideas.**
 
 <br/>
