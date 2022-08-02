@@ -74,9 +74,11 @@
 **The bot has the right to store information about the server in which it is located. The developers have the right to change the privacy policy of the bot at any time.**
 
 - **What data do we store :-**
+
 **Our app don't store any bot user data nor the content of the messages, only the guild identifier if protection is enabled.**
 
 - **How do we secure data :-**
+
 **We follow the best protection methods used globally in order to protect the data and information of the servers in which our application is located.**
 
 
