@@ -13,7 +13,7 @@
 <br/>
 
 <img align='center' src='https://cdn.discordapp.com/attachments/1000836914192072775/1004119669235523634/1.png'/>
-
+****
 **Our bot provides protection for the servers where the bot is located, the protection is developed with new and advanced ideas.**
 
 <br/>
