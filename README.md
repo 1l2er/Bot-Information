@@ -36,12 +36,6 @@
 
 - **Change Vanity**
 
-<br>
-
-<img align='center' src='https://cdn.discordapp.com/attachments/1000836914192072775/1006914858459074664/re.png'/>
-
-<br/>
-
 <br/>
 
 # <p align='center'><b>Terms of Service</b></p>
