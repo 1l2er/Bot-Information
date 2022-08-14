@@ -1,4 +1,4 @@
-<h1> align='center'><b>Anti Nuke</b></h1>
+<h1 align='center'><b>Anti Nuke</b></h1>
 
 <div align='center'>
 
