@@ -1,4 +1,4 @@
-<h1 align='center'><b>Anti Nuke</b></h1>
+<h1> align='center'><b>Anti Nuke</b></h1>
 
 <div align='center'>
 
@@ -25,6 +25,30 @@
 - **Add Bots**
 
 - **Change Vanity**
+
+<br/>
+
+## **What are punishments?**
+
+- **Ban**
+- **Kick**
+- **Remove Roles**
+
+<br/>
+
+<h1 align='center'><b>WhiteList</b></h1>
+
+<div align='center'>
+
+**Security sanctions are not applied to users who are added to the list**
+
+</div>
+
+<div align='center'>
+
+**Currently you can only add users to the whitelist**
+
+</div>
 
 <br/>
 
