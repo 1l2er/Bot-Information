@@ -1,13 +1,3 @@
-<div align='center'>
-
-**You may encounter issues with some protections, but the bot is currently being developed continuously and all issues will be resolved soon**
-
-</div>
-
-****
-<br/>
-
-
 <h1 align='center'><b>Anti Nuke</b></h1>
 
 <div align='center'>
