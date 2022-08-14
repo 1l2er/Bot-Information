@@ -1,44 +1,46 @@
-# <p align='center'><b>What you should read :</b></p>
+<div align='center'>
 
-**1. [Terms of Service ](https://github.com/1l2er/Bot-Information#terms-of-service)to learn the correct way to use the bot**
+**You may encounter issues with some protections, but the bot is currently being developed continuously and all issues will be resolved soon**
 
-**2. [Privacy Policy ](https://github.com/1l2er/Bot-Information#privacy-policy)to see what information is stored**
-
-**3. [Get Started ](https://github.com/1l2er/Bot-Information#get-started)to read a simple bot definition**
-
-**4. The [Commands ](https://github.com/1l2er/Bot-Information#commands-)in the robot**
-
-**5. [Information ](https://github.com/1l2er/Bot-Information#information-)about the bot**
-
-<br/>
-
-<img align='center' src='https://cdn.discordapp.com/attachments/1000836914192072775/1004119669235523634/1.png'/>
+</div>
 
 ****
+<br/>
 
-**Our bot provides protection for the servers where the bot is located, the protection is developed with new and advanced ideas.**
+
+<h1 align='center'><b>Anti Nuke</b></h1>
+
+<div align='center'>
+
+**Anti-Nuke protects against server vandalism, with an advanced protection system that contains settings such as setting penalties and maximum protection measures such as creating or deleting multiple channels, creating or deleting multiple roles and many other protections**
+
+</div>
 
 <br/>
 
-## **Command's** :
-
-- **AntiBots On/OFF - Protect the server from entering bots.**
-
-- **AntiVanity On/OFF - Server Shortcut URL Protection.**
-
-- **AntiRoles On/OFF - Protection from creating, deleting or modifying many roles in a short time.**
-
-- **AntiChannels On/OFF - Protection from creating, deleting or modifying many channels in a short time.**
-
-- **AntiLinks On/OFF - Protection from sending links.**
+## **What actions does the security system consider to be a threat to the server?**
 
 <br/>
 
-## **Information :**
+- **Channels Create**
 
-#### **Default Prefix : `?`**
+- **Channels Delete**
 
-#### **When inserting the bot into the server, activate the protection with [Here](https://github.com/1l2er/Bot-Information#commands-).**
+- **Roles Create**
+
+- **Roles Delete**
+
+- **Give Sensitive Permissions**
+
+- **Add Bots**
+
+- **Change Vanity**
+
+<br>
+
+<img align='center' src='https://cdn.discordapp.com/attachments/1000836914192072775/1006914858459074664/re.png'/>
+
+<br/>
 
 <br/>
 
@@ -88,4 +90,4 @@
 <br/>
 <br/>
 
-<p align='center'>© 2022 All rights reserved. | Security +</p>
+<p align='center'><b>© 2022 All rights reserved. | Security +</b></p>
